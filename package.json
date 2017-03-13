@@ -1,0 +1,16 @@
+{
+  "name": "webinar-node",
+  "version": "1.0.0",
+  "description": "Webinar opensource with node!!",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manipal Reddy",
+  "license": "MIT"
+}
